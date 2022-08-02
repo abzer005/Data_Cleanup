@@ -1,0 +1,161 @@
+sample_name	filename	ATTRIBUTE_species	ATTRIBUTE_sample	ATTRIBUTE_timepoint	ATTRIBUTE_replicates
+t0_BS_1.mzML Peak area	t0_BS_1.mzML Peak area	B.subtilis	sample	0.0	1.0
+t0_BS_2.mzML Peak area	t0_BS_2.mzML Peak area	B.subtilis	sample	0.0	2.0
+t0_BS_3.mzML Peak area	t0_BS_3.mzML Peak area	B.subtilis	sample	0.0	3.0
+t0_BS_C.mzML Peak area	t0_BS_C.mzML Peak area	B.subtilis	Control	0.0	0.0
+t0_Ec_1.mzML Peak area	t0_Ec_1.mzML Peak area	E.coli	sample	0.0	1.0
+t0_Ec_2.mzML Peak area	t0_Ec_2.mzML Peak area	E.coli	sample	0.0	2.0
+t0_Ec_3.mzML Peak area	t0_Ec_3.mzML Peak area	E.coli	sample	0.0	3.0
+t0_Ec_C.mzML Peak area	t0_Ec_C.mzML Peak area	E.coli	Control	0.0	0.0
+t1_BS_1.mzML Peak area	t1_BS_1.mzML Peak area	B.subtilis	sample	1.0	1.0
+t1_BS_2.mzML Peak area	t1_BS_2.mzML Peak area	B.subtilis	sample	1.0	2.0
+t1_BS_3.mzML Peak area	t1_BS_3.mzML Peak area	B.subtilis	sample	1.0	3.0
+t1_BS_C.mzML Peak area	t1_BS_C.mzML Peak area	B.subtilis	Control	1.0	0.0
+t1_Ec_1.mzML Peak area	t1_Ec_1.mzML Peak area	E.coli	sample	1.0	1.0
+t1_Ec_2.mzML Peak area	t1_Ec_2.mzML Peak area	E.coli	sample	1.0	2.0
+t1_Ec_3.mzML Peak area	t1_Ec_3.mzML Peak area	E.coli	sample	1.0	3.0
+t1_Ec_C.mzML Peak area	t1_Ec_C.mzML Peak area	E.coli	Control	1.0	0.0
+t2_BS_1.mzML Peak area	t2_BS_1.mzML Peak area	B.subtilis	sample	2.0	1.0
+t2_BS_2.mzML Peak area	t2_BS_2.mzML Peak area	B.subtilis	sample	2.0	2.0
+t2_BS_3.mzML Peak area	t2_BS_3.mzML Peak area	B.subtilis	sample	2.0	3.0
+t2_BS_C.mzML Peak area	t2_BS_C.mzML Peak area	B.subtilis	Control	2.0	0.0
+t2_Ec_1.mzML Peak area	t2_Ec_1.mzML Peak area	E.coli	sample	2.0	1.0
+t2_Ec_2.mzML Peak area	t2_Ec_2.mzML Peak area	E.coli	sample	2.0	2.0
+t2_Ec_3.mzML Peak area	t2_Ec_3.mzML Peak area	E.coli	sample	2.0	3.0
+t2_Ec_C.mzML Peak area	t2_Ec_C.mzML Peak area	E.coli	Control	2.0	0.0
+t3_BS_1.mzML Peak area	t3_BS_1.mzML Peak area	B.subtilis	sample	3.0	1.0
+t3_BS_2.mzML Peak area	t3_BS_2.mzML Peak area	B.subtilis	sample	3.0	2.0
+t3_BS_3.mzML Peak area	t3_BS_3.mzML Peak area	B.subtilis	sample	3.0	3.0
+t3_BS_C.mzML Peak area	t3_BS_C.mzML Peak area	B.subtilis	Control	3.0	0.0
+t3_Ec_1.mzML Peak area	t3_Ec_1.mzML Peak area	E.coli	sample	3.0	1.0
+t3_Ec_2.mzML Peak area	t3_Ec_2.mzML Peak area	E.coli	sample	3.0	2.0
+t3_Ec_3.mzML Peak area	t3_Ec_3.mzML Peak area	E.coli	sample	3.0	3.0
+t3_Ec_C.mzML Peak area	t3_Ec_C.mzML Peak area	E.coli	Control	3.0	0.0
+t4_BS_1.mzML Peak area	t4_BS_1.mzML Peak area	B.subtilis	sample	4.0	1.0
+t4_BS_2.mzML Peak area	t4_BS_2.mzML Peak area	B.subtilis	sample	4.0	2.0
+t4_BS_3.mzML Peak area	t4_BS_3.mzML Peak area	B.subtilis	sample	4.0	3.0
+t4_BS_C.mzML Peak area	t4_BS_C.mzML Peak area	B.subtilis	Control	4.0	0.0
+t4_Ec_1.mzML Peak area	t4_Ec_1.mzML Peak area	E.coli	sample	4.0	1.0
+t4_Ec_2.mzML Peak area	t4_Ec_2.mzML Peak area	E.coli	sample	4.0	2.0
+t4_Ec_3.mzML Peak area	t4_Ec_3.mzML Peak area	E.coli	sample	4.0	3.0
+t4_Ec_C.mzML Peak area	t4_Ec_C.mzML Peak area	E.coli	Control	4.0	0.0
+t5_BS_1.mzML Peak area	t5_BS_1.mzML Peak area	B.subtilis	sample	5.0	1.0
+t5_BS_2.mzML Peak area	t5_BS_2.mzML Peak area	B.subtilis	sample	5.0	2.0
+t5_BS_3.mzML Peak area	t5_BS_3.mzML Peak area	B.subtilis	sample	5.0	3.0
+t5_BS_C.mzML Peak area	t5_BS_C.mzML Peak area	B.subtilis	Control	5.0	0.0
+t5_Ec_1.mzML Peak area	t5_Ec_1.mzML Peak area	E.coli	sample	5.0	1.0
+t5_Ec_2.mzML Peak area	t5_Ec_2.mzML Peak area	E.coli	sample	5.0	2.0
+t5_Ec_3.mzML Peak area	t5_Ec_3.mzML Peak area	E.coli	sample	5.0	3.0
+t5_Ec_C.mzML Peak area	t5_Ec_C.mzML Peak area	E.coli	Control	5.0	0.0
+t6_BS_1.mzML Peak area	t6_BS_1.mzML Peak area	B.subtilis	sample	6.0	1.0
+t6_BS_2.mzML Peak area	t6_BS_2.mzML Peak area	B.subtilis	sample	6.0	2.0
+t6_BS_3.mzML Peak area	t6_BS_3.mzML Peak area	B.subtilis	sample	6.0	3.0
+t6_BS_C.mzML Peak area	t6_BS_C.mzML Peak area	B.subtilis	Control	6.0	0.0
+t6_Ec_1.mzML Peak area	t6_Ec_1.mzML Peak area	E.coli	sample	6.0	1.0
+t6_Ec_2.mzML Peak area	t6_Ec_2.mzML Peak area	E.coli	sample	6.0	2.0
+t6_Ec_3.mzML Peak area	t6_Ec_3.mzML Peak area	E.coli	sample	6.0	3.0
+t6_Ec_C.mzML Peak area	t6_Ec_C.mzML Peak area	E.coli	Control	6.0	0.0
+t7_BS_1.mzML Peak area	t7_BS_1.mzML Peak area	B.subtilis	sample	7.0	1.0
+t7_BS_2.mzML Peak area	t7_BS_2.mzML Peak area	B.subtilis	sample	7.0	2.0
+t7_BS_3.mzML Peak area	t7_BS_3.mzML Peak area	B.subtilis	sample	7.0	3.0
+t7_BS_C.mzML Peak area	t7_BS_C.mzML Peak area	B.subtilis	Control	7.0	0.0
+t7_Ec_1.mzML Peak area	t7_Ec_1.mzML Peak area	E.coli	sample	7.0	1.0
+t7_Ec_2.mzML Peak area	t7_Ec_2.mzML Peak area	E.coli	sample	7.0	2.0
+t7_Ec_3.mzML Peak area	t7_Ec_3.mzML Peak area	E.coli	sample	7.0	3.0
+t7_Ec_C.mzML Peak area	t7_Ec_C.mzML Peak area	E.coli	Control	7.0	0.0
+t8_BS_1.mzML Peak area	t8_BS_1.mzML Peak area	B.subtilis	sample	8.0	1.0
+t8_BS_2.mzML Peak area	t8_BS_2.mzML Peak area	B.subtilis	sample	8.0	2.0
+t8_BS_3.mzML Peak area	t8_BS_3.mzML Peak area	B.subtilis	sample	8.0	3.0
+t8_BS_C.mzML Peak area	t8_BS_C.mzML Peak area	B.subtilis	Control	8.0	0.0
+t8_Ec_1.mzML Peak area	t8_Ec_1.mzML Peak area	E.coli	sample	8.0	1.0
+t8_Ec_2.mzML Peak area	t8_Ec_2.mzML Peak area	E.coli	sample	8.0	2.0
+t8_Ec_3.mzML Peak area	t8_Ec_3.mzML Peak area	E.coli	sample	8.0	3.0
+t8_Ec_C.mzML Peak area	t8_Ec_C.mzML Peak area	E.coli	Control	8.0	0.0
+t9_BS_1.mzML Peak area	t9_BS_1.mzML Peak area	B.subtilis	sample	9.0	1.0
+t9_BS_2.mzML Peak area	t9_BS_2.mzML Peak area	B.subtilis	sample	9.0	2.0
+t9_BS_3.mzML Peak area	t9_BS_3.mzML Peak area	B.subtilis	sample	9.0	3.0
+t9_BS_C.mzML Peak area	t9_BS_C.mzML Peak area	B.subtilis	Control	9.0	0.0
+t9_Ec_1.mzML Peak area	t9_Ec_1.mzML Peak area	E.coli	sample	9.0	1.0
+t9_Ec_2.mzML Peak area	t9_Ec_2.mzML Peak area	E.coli	sample	9.0	2.0
+t9_Ec_3.mzML Peak area	t9_Ec_3.mzML Peak area	E.coli	sample	9.0	3.0
+t9_Ec_C.mzML Peak area	t9_Ec_C.mzML Peak area	E.coli	Control	9.0	0.0
+t0_BS_1.mzML	t0_BS_1.mzML	NaN	NaN	NaN	NaN
+t0_BS_2.mzML	t0_BS_2.mzML	NaN	NaN	NaN	NaN
+t0_BS_3.mzML	t0_BS_3.mzML	NaN	NaN	NaN	NaN
+t0_BS_C.mzML	t0_BS_C.mzML	NaN	NaN	NaN	NaN
+t0_Ec_1.mzML	t0_Ec_1.mzML	NaN	NaN	NaN	NaN
+t0_Ec_2.mzML	t0_Ec_2.mzML	NaN	NaN	NaN	NaN
+t0_Ec_3.mzML	t0_Ec_3.mzML	NaN	NaN	NaN	NaN
+t0_Ec_C.mzML	t0_Ec_C.mzML	NaN	NaN	NaN	NaN
+t1_BS_1.mzML	t1_BS_1.mzML	NaN	NaN	NaN	NaN
+t1_BS_2.mzML	t1_BS_2.mzML	NaN	NaN	NaN	NaN
+t1_BS_3.mzML	t1_BS_3.mzML	NaN	NaN	NaN	NaN
+t1_BS_C.mzML	t1_BS_C.mzML	NaN	NaN	NaN	NaN
+t1_Ec_1.mzML	t1_Ec_1.mzML	NaN	NaN	NaN	NaN
+t1_Ec_2.mzML	t1_Ec_2.mzML	NaN	NaN	NaN	NaN
+t1_Ec_3.mzML	t1_Ec_3.mzML	NaN	NaN	NaN	NaN
+t1_Ec_C.mzML	t1_Ec_C.mzML	NaN	NaN	NaN	NaN
+t2_BS_1.mzML	t2_BS_1.mzML	NaN	NaN	NaN	NaN
+t2_BS_2.mzML	t2_BS_2.mzML	NaN	NaN	NaN	NaN
+t2_BS_3.mzML	t2_BS_3.mzML	NaN	NaN	NaN	NaN
+t2_BS_C.mzML	t2_BS_C.mzML	NaN	NaN	NaN	NaN
+t2_Ec_1.mzML	t2_Ec_1.mzML	NaN	NaN	NaN	NaN
+t2_Ec_2.mzML	t2_Ec_2.mzML	NaN	NaN	NaN	NaN
+t2_Ec_3.mzML	t2_Ec_3.mzML	NaN	NaN	NaN	NaN
+t2_Ec_C.mzML	t2_Ec_C.mzML	NaN	NaN	NaN	NaN
+t3_BS_1.mzML	t3_BS_1.mzML	NaN	NaN	NaN	NaN
+t3_BS_2.mzML	t3_BS_2.mzML	NaN	NaN	NaN	NaN
+t3_BS_3.mzML	t3_BS_3.mzML	NaN	NaN	NaN	NaN
+t3_BS_C.mzML	t3_BS_C.mzML	NaN	NaN	NaN	NaN
+t3_Ec_1.mzML	t3_Ec_1.mzML	NaN	NaN	NaN	NaN
+t3_Ec_2.mzML	t3_Ec_2.mzML	NaN	NaN	NaN	NaN
+t3_Ec_3.mzML	t3_Ec_3.mzML	NaN	NaN	NaN	NaN
+t3_Ec_C.mzML	t3_Ec_C.mzML	NaN	NaN	NaN	NaN
+t4_BS_1.mzML	t4_BS_1.mzML	NaN	NaN	NaN	NaN
+t4_BS_2.mzML	t4_BS_2.mzML	NaN	NaN	NaN	NaN
+t4_BS_3.mzML	t4_BS_3.mzML	NaN	NaN	NaN	NaN
+t4_BS_C.mzML	t4_BS_C.mzML	NaN	NaN	NaN	NaN
+t4_Ec_1.mzML	t4_Ec_1.mzML	NaN	NaN	NaN	NaN
+t4_Ec_2.mzML	t4_Ec_2.mzML	NaN	NaN	NaN	NaN
+t4_Ec_3.mzML	t4_Ec_3.mzML	NaN	NaN	NaN	NaN
+t4_Ec_C.mzML	t4_Ec_C.mzML	NaN	NaN	NaN	NaN
+t5_BS_1.mzML	t5_BS_1.mzML	NaN	NaN	NaN	NaN
+t5_BS_2.mzML	t5_BS_2.mzML	NaN	NaN	NaN	NaN
+t5_BS_3.mzML	t5_BS_3.mzML	NaN	NaN	NaN	NaN
+t5_BS_C.mzML	t5_BS_C.mzML	NaN	NaN	NaN	NaN
+t5_Ec_1.mzML	t5_Ec_1.mzML	NaN	NaN	NaN	NaN
+t5_Ec_2.mzML	t5_Ec_2.mzML	NaN	NaN	NaN	NaN
+t5_Ec_3.mzML	t5_Ec_3.mzML	NaN	NaN	NaN	NaN
+t5_Ec_C.mzML	t5_Ec_C.mzML	NaN	NaN	NaN	NaN
+t6_BS_1.mzML	t6_BS_1.mzML	NaN	NaN	NaN	NaN
+t6_BS_2.mzML	t6_BS_2.mzML	NaN	NaN	NaN	NaN
+t6_BS_3.mzML	t6_BS_3.mzML	NaN	NaN	NaN	NaN
+t6_BS_C.mzML	t6_BS_C.mzML	NaN	NaN	NaN	NaN
+t6_Ec_1.mzML	t6_Ec_1.mzML	NaN	NaN	NaN	NaN
+t6_Ec_2.mzML	t6_Ec_2.mzML	NaN	NaN	NaN	NaN
+t6_Ec_3.mzML	t6_Ec_3.mzML	NaN	NaN	NaN	NaN
+t6_Ec_C.mzML	t6_Ec_C.mzML	NaN	NaN	NaN	NaN
+t7_BS_1.mzML	t7_BS_1.mzML	NaN	NaN	NaN	NaN
+t7_BS_2.mzML	t7_BS_2.mzML	NaN	NaN	NaN	NaN
+t7_BS_3.mzML	t7_BS_3.mzML	NaN	NaN	NaN	NaN
+t7_BS_C.mzML	t7_BS_C.mzML	NaN	NaN	NaN	NaN
+t7_Ec_1.mzML	t7_Ec_1.mzML	NaN	NaN	NaN	NaN
+t7_Ec_2.mzML	t7_Ec_2.mzML	NaN	NaN	NaN	NaN
+t7_Ec_3.mzML	t7_Ec_3.mzML	NaN	NaN	NaN	NaN
+t7_Ec_C.mzML	t7_Ec_C.mzML	NaN	NaN	NaN	NaN
+t8_BS_1.mzML	t8_BS_1.mzML	NaN	NaN	NaN	NaN
+t8_BS_2.mzML	t8_BS_2.mzML	NaN	NaN	NaN	NaN
+t8_BS_3.mzML	t8_BS_3.mzML	NaN	NaN	NaN	NaN
+t8_BS_C.mzML	t8_BS_C.mzML	NaN	NaN	NaN	NaN
+t8_Ec_1.mzML	t8_Ec_1.mzML	NaN	NaN	NaN	NaN
+t8_Ec_2.mzML	t8_Ec_2.mzML	NaN	NaN	NaN	NaN
+t8_Ec_3.mzML	t8_Ec_3.mzML	NaN	NaN	NaN	NaN
+t8_Ec_C.mzML	t8_Ec_C.mzML	NaN	NaN	NaN	NaN
+t9_BS_1.mzML	t9_BS_1.mzML	NaN	NaN	NaN	NaN
+t9_BS_2.mzML	t9_BS_2.mzML	NaN	NaN	NaN	NaN
+t9_BS_3.mzML	t9_BS_3.mzML	NaN	NaN	NaN	NaN
+t9_BS_C.mzML	t9_BS_C.mzML	NaN	NaN	NaN	NaN
+t9_Ec_1.mzML	t9_Ec_1.mzML	NaN	NaN	NaN	NaN
+t9_Ec_2.mzML	t9_Ec_2.mzML	NaN	NaN	NaN	NaN
+t9_Ec_3.mzML	t9_Ec_3.mzML	NaN	NaN	NaN	NaN
+t9_Ec_C.mzML	t9_Ec_C.mzML	NaN	NaN	NaN	NaN
